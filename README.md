@@ -1,5 +1,5 @@
 # Algorithmic-Trading-and-Backtesting
-Implementation of a Trading Algorithm that uses a Support Vector Machine (SVN) to predict stock price movements. 
+Implementation of a Trading Algorithm that uses a Forecasting Model(alpha model) to predict stock price movements and the trading signals, a Risk Analysis Model(Beta Model) to assess the long term performance of the stocks and distribute capital among the chosen combination or portfolio of stocks, and a decision model to execute the trades.
 
 
 Make sure to install the "kivy" package of python before you run the "main.py" file which is used for the User Interface. 
